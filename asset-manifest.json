@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/benion-firebase-crud/static/css/main.5f361e03.chunk.css",
+    "main.js": "/benion-firebase-crud/static/js/main.e7182464.chunk.js",
+    "main.js.map": "/benion-firebase-crud/static/js/main.e7182464.chunk.js.map",
+    "runtime-main.js": "/benion-firebase-crud/static/js/runtime-main.eccdfd32.js",
+    "runtime-main.js.map": "/benion-firebase-crud/static/js/runtime-main.eccdfd32.js.map",
+    "static/js/2.4990473b.chunk.js": "/benion-firebase-crud/static/js/2.4990473b.chunk.js",
+    "static/js/2.4990473b.chunk.js.map": "/benion-firebase-crud/static/js/2.4990473b.chunk.js.map",
+    "index.html": "/benion-firebase-crud/index.html",
+    "precache-manifest.fe66fff992f7b5c4803bb4a1c366d833.js": "/benion-firebase-crud/precache-manifest.fe66fff992f7b5c4803bb4a1c366d833.js",
+    "service-worker.js": "/benion-firebase-crud/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/benion-firebase-crud/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4990473b.chunk.js.LICENSE.txt": "/benion-firebase-crud/static/js/2.4990473b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eccdfd32.js",
+    "static/js/2.4990473b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e7182464.chunk.js"
+  ]
+}
